@@ -37,3 +37,4 @@ Current core cases:
 - Confirm OpenAI key and model availability.
 - Run Lighthouse on mobile and desktop.
 - Confirm public audit pages do not expose email, company, or role fields.
+ updtaes will be pushed in future
